@@ -2,29 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>API_KEY</key>
-	<string>AIzaSyDjkhqP7Gec3vy5ei4pLMl7M5q5P1xC3YM</string>
-	<key>GCM_SENDER_ID</key>
-	<string>356214348881</string>
-	<key>PLIST_VERSION</key>
-	<string>1</string>
-	<key>BUNDLE_ID</key>
-	<string>itlag.FireBase</string>
-	<key>PROJECT_ID</key>
-	<string>fir-xcode-da5ed</string>
-	<key>STORAGE_BUCKET</key>
-	<string>fir-xcode-da5ed.firebasestorage.app</string>
-	<key>IS_ADS_ENABLED</key>
-	<false></false>
-	<key>IS_ANALYTICS_ENABLED</key>
-	<false></false>
-	<key>IS_APPINVITE_ENABLED</key>
-	<true></true>
-	<key>IS_GCM_ENABLED</key>
-	<true></true>
-	<key>IS_SIGNIN_ENABLED</key>
-	<true></true>
-	<key>GOOGLE_APP_ID</key>
-	<string>1:356214348881:ios:651d772e733e8dd285ac70</string>
+//AQUI SE PONE TU PROPIA INFORMACION
 </dict>
 </plist>
